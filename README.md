@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Tale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="">
+<img align="right" width="300" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyatale&label=Profile%20views&color=0e75b6&style=flat" alt="shreyatale" /> </p>
 
 - ⚡ Fun fact **I am funny.**
